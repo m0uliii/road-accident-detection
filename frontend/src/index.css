@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    margin: 0;
+    background-color: #F8F8F6;
+    color: #181818;
+  }
+
+  /* Thin, unobtrusive scrollbars */
+  ::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #D4D4D2;
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #ADADAB;
+  }
+}
+
+@layer components {
+  .page-title {
+    @apply text-xl font-semibold text-primary tracking-tight;
+  }
+
+  .page-subtitle {
+    @apply text-sm text-secondary mt-0.5;
+  }
+
+  .panel {
+    @apply bg-card border border-border rounded-sm;
+  }
+
+  .empty-state {
+    @apply flex flex-col items-center justify-center py-20 text-secondary text-sm;
+  }
+}

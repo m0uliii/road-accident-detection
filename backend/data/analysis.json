@@ -1,0 +1,580 @@
+{
+  "video": "traffic_15sec.mp4",
+  "duration_seconds": 15.0,
+  "frames_processed": 225,
+  "tracking_ids_observed": 74,
+  "vehicles_analyzed": 48,
+  "vehicles": [
+    {
+      "id": 20,
+      "type": "truck",
+      "first_seen": 0.467,
+      "last_seen": 14.933,
+      "frames_tracked": 210,
+      "average_motion_px_s": 69.17,
+      "abrupt_motion_changes": 19,
+      "risk_score": 54,
+      "risk_level": "Medium"
+    },
+    {
+      "id": 335,
+      "type": "truck",
+      "first_seen": 12.8,
+      "last_seen": 13.467,
+      "frames_tracked": 8,
+      "average_motion_px_s": 141.91,
+      "abrupt_motion_changes": 2,
+      "risk_score": 42,
+      "risk_level": "Medium"
+    },
+    {
+      "id": 240,
+      "type": "truck",
+      "first_seen": 9.933,
+      "last_seen": 11.267,
+      "frames_tracked": 16,
+      "average_motion_px_s": 90.09,
+      "abrupt_motion_changes": 2,
+      "risk_score": 35,
+      "risk_level": "Medium"
+    },
+    {
+      "id": 7,
+      "type": "bus",
+      "first_seen": 0.0,
+      "last_seen": 3.067,
+      "frames_tracked": 36,
+      "average_motion_px_s": 63.09,
+      "abrupt_motion_changes": 2,
+      "risk_score": 32,
+      "risk_level": "Low"
+    },
+    {
+      "id": 8,
+      "type": "bus",
+      "first_seen": 0.0,
+      "last_seen": 14.933,
+      "frames_tracked": 218,
+      "average_motion_px_s": 34.94,
+      "abrupt_motion_changes": 2,
+      "risk_score": 28,
+      "risk_level": "Low"
+    },
+    {
+      "id": 6,
+      "type": "car",
+      "first_seen": 0.0,
+      "last_seen": 9.133,
+      "frames_tracked": 100,
+      "average_motion_px_s": 97.44,
+      "abrupt_motion_changes": 1,
+      "risk_score": 24,
+      "risk_level": "Low"
+    },
+    {
+      "id": 3,
+      "type": "car",
+      "first_seen": 0.0,
+      "last_seen": 1.8,
+      "frames_tracked": 28,
+      "average_motion_px_s": 186.2,
+      "abrupt_motion_changes": 0,
+      "risk_score": 23,
+      "risk_level": "Low"
+    },
+    {
+      "id": 55,
+      "type": "car",
+      "first_seen": 2.533,
+      "last_seen": 12.067,
+      "frames_tracked": 136,
+      "average_motion_px_s": 70.14,
+      "abrupt_motion_changes": 1,
+      "risk_score": 21,
+      "risk_level": "Low"
+    },
+    {
+      "id": 91,
+      "type": "car",
+      "first_seen": 3.667,
+      "last_seen": 5.267,
+      "frames_tracked": 25,
+      "average_motion_px_s": 152.27,
+      "abrupt_motion_changes": 0,
+      "risk_score": 19,
+      "risk_level": "Low"
+    },
+    {
+      "id": 337,
+      "type": "car",
+      "first_seen": 12.8,
+      "last_seen": 13.733,
+      "frames_tracked": 15,
+      "average_motion_px_s": 153.47,
+      "abrupt_motion_changes": 0,
+      "risk_score": 19,
+      "risk_level": "Low"
+    },
+    {
+      "id": 81,
+      "type": "truck",
+      "first_seen": 3.2,
+      "last_seen": 6.667,
+      "frames_tracked": 48,
+      "average_motion_px_s": 141.81,
+      "abrupt_motion_changes": 0,
+      "risk_score": 18,
+      "risk_level": "Low"
+    },
+    {
+      "id": 4,
+      "type": "car",
+      "first_seen": 0.0,
+      "last_seen": 4.2,
+      "frames_tracked": 44,
+      "average_motion_px_s": 124.75,
+      "abrupt_motion_changes": 0,
+      "risk_score": 16,
+      "risk_level": "Low"
+    },
+    {
+      "id": 5,
+      "type": "bus",
+      "first_seen": 0.0,
+      "last_seen": 4.6,
+      "frames_tracked": 68,
+      "average_motion_px_s": 110.84,
+      "abrupt_motion_changes": 0,
+      "risk_score": 14,
+      "risk_level": "Low"
+    },
+    {
+      "id": 9,
+      "type": "car",
+      "first_seen": 0.0,
+      "last_seen": 7.2,
+      "frames_tracked": 103,
+      "average_motion_px_s": 95.88,
+      "abrupt_motion_changes": 0,
+      "risk_score": 12,
+      "risk_level": "Low"
+    },
+    {
+      "id": 40,
+      "type": "car",
+      "first_seen": 2.067,
+      "last_seen": 9.533,
+      "frames_tracked": 105,
+      "average_motion_px_s": 81.46,
+      "abrupt_motion_changes": 0,
+      "risk_score": 10,
+      "risk_level": "Low"
+    },
+    {
+      "id": 73,
+      "type": "car",
+      "first_seen": 3.0,
+      "last_seen": 11.0,
+      "frames_tracked": 120,
+      "average_motion_px_s": 76.69,
+      "abrupt_motion_changes": 0,
+      "risk_score": 10,
+      "risk_level": "Low"
+    },
+    {
+      "id": 119,
+      "type": "car",
+      "first_seen": 5.067,
+      "last_seen": 12.867,
+      "frames_tracked": 118,
+      "average_motion_px_s": 80.52,
+      "abrupt_motion_changes": 0,
+      "risk_score": 10,
+      "risk_level": "Low"
+    },
+    {
+      "id": 1,
+      "type": "bus",
+      "first_seen": 0.0,
+      "last_seen": 3.8,
+      "frames_tracked": 58,
+      "average_motion_px_s": 66.62,
+      "abrupt_motion_changes": 0,
+      "risk_score": 8,
+      "risk_level": "Low"
+    },
+    {
+      "id": 145,
+      "type": "car",
+      "first_seen": 6.667,
+      "last_seen": 14.533,
+      "frames_tracked": 111,
+      "average_motion_px_s": 67.84,
+      "abrupt_motion_changes": 0,
+      "risk_score": 8,
+      "risk_level": "Low"
+    },
+    {
+      "id": 356,
+      "type": "car",
+      "first_seen": 13.333,
+      "last_seen": 14.933,
+      "frames_tracked": 22,
+      "average_motion_px_s": 45.3,
+      "abrupt_motion_changes": 0,
+      "risk_score": 6,
+      "risk_level": "Low"
+    },
+    {
+      "id": 92,
+      "type": "bus",
+      "first_seen": 3.667,
+      "last_seen": 4.667,
+      "frames_tracked": 15,
+      "average_motion_px_s": 38.14,
+      "abrupt_motion_changes": 0,
+      "risk_score": 5,
+      "risk_level": "Low"
+    },
+    {
+      "id": 313,
+      "type": "bus",
+      "first_seen": 11.933,
+      "last_seen": 12.667,
+      "frames_tracked": 12,
+      "average_motion_px_s": 41.66,
+      "abrupt_motion_changes": 0,
+      "risk_score": 5,
+      "risk_level": "Low"
+    },
+    {
+      "id": 176,
+      "type": "car",
+      "first_seen": 7.533,
+      "last_seen": 14.933,
+      "frames_tracked": 97,
+      "average_motion_px_s": 31.31,
+      "abrupt_motion_changes": 0,
+      "risk_score": 4,
+      "risk_level": "Low"
+    },
+    {
+      "id": 198,
+      "type": "car",
+      "first_seen": 9.0,
+      "last_seen": 11.867,
+      "frames_tracked": 25,
+      "average_motion_px_s": 33.7,
+      "abrupt_motion_changes": 0,
+      "risk_score": 4,
+      "risk_level": "Low"
+    },
+    {
+      "id": 213,
+      "type": "car",
+      "first_seen": 9.333,
+      "last_seen": 9.8,
+      "frames_tracked": 8,
+      "average_motion_px_s": 28.95,
+      "abrupt_motion_changes": 0,
+      "risk_score": 4,
+      "risk_level": "Low"
+    },
+    {
+      "id": 380,
+      "type": "car",
+      "first_seen": 14.067,
+      "last_seen": 14.933,
+      "frames_tracked": 14,
+      "average_motion_px_s": 31.67,
+      "abrupt_motion_changes": 0,
+      "risk_score": 4,
+      "risk_level": "Low"
+    },
+    {
+      "id": 68,
+      "type": "car",
+      "first_seen": 2.867,
+      "last_seen": 13.733,
+      "frames_tracked": 153,
+      "average_motion_px_s": 23.33,
+      "abrupt_motion_changes": 0,
+      "risk_score": 3,
+      "risk_level": "Low"
+    },
+    {
+      "id": 82,
+      "type": "car",
+      "first_seen": 3.2,
+      "last_seen": 4.133,
+      "frames_tracked": 14,
+      "average_motion_px_s": 24.79,
+      "abrupt_motion_changes": 0,
+      "risk_score": 3,
+      "risk_level": "Low"
+    },
+    {
+      "id": 230,
+      "type": "car",
+      "first_seen": 9.733,
+      "last_seen": 14.933,
+      "frames_tracked": 58,
+      "average_motion_px_s": 20.35,
+      "abrupt_motion_changes": 0,
+      "risk_score": 3,
+      "risk_level": "Low"
+    },
+    {
+      "id": 243,
+      "type": "car",
+      "first_seen": 10.0,
+      "last_seen": 10.867,
+      "frames_tracked": 14,
+      "average_motion_px_s": 22.78,
+      "abrupt_motion_changes": 0,
+      "risk_score": 3,
+      "risk_level": "Low"
+    },
+    {
+      "id": 312,
+      "type": "car",
+      "first_seen": 11.933,
+      "last_seen": 14.467,
+      "frames_tracked": 36,
+      "average_motion_px_s": 22.88,
+      "abrupt_motion_changes": 0,
+      "risk_score": 3,
+      "risk_level": "Low"
+    },
+    {
+      "id": 2,
+      "type": "car",
+      "first_seen": 0.0,
+      "last_seen": 11.667,
+      "frames_tracked": 163,
+      "average_motion_px_s": 13.42,
+      "abrupt_motion_changes": 0,
+      "risk_score": 2,
+      "risk_level": "Low"
+    },
+    {
+      "id": 10,
+      "type": "car",
+      "first_seen": 0.0,
+      "last_seen": 1.2,
+      "frames_tracked": 11,
+      "average_motion_px_s": 19.6,
+      "abrupt_motion_changes": 0,
+      "risk_score": 2,
+      "risk_level": "Low"
+    },
+    {
+      "id": 11,
+      "type": "car",
+      "first_seen": 0.0,
+      "last_seen": 14.933,
+      "frames_tracked": 221,
+      "average_motion_px_s": 12.02,
+      "abrupt_motion_changes": 0,
+      "risk_score": 2,
+      "risk_level": "Low"
+    },
+    {
+      "id": 14,
+      "type": "car",
+      "first_seen": 0.2,
+      "last_seen": 7.533,
+      "frames_tracked": 80,
+      "average_motion_px_s": 15.57,
+      "abrupt_motion_changes": 0,
+      "risk_score": 2,
+      "risk_level": "Low"
+    },
+    {
+      "id": 29,
+      "type": "car",
+      "first_seen": 1.267,
+      "last_seen": 10.8,
+      "frames_tracked": 130,
+      "average_motion_px_s": 15.78,
+      "abrupt_motion_changes": 0,
+      "risk_score": 2,
+      "risk_level": "Low"
+    },
+    {
+      "id": 66,
+      "type": "car",
+      "first_seen": 2.8,
+      "last_seen": 14.933,
+      "frames_tracked": 145,
+      "average_motion_px_s": 15.66,
+      "abrupt_motion_changes": 0,
+      "risk_score": 2,
+      "risk_level": "Low"
+    },
+    {
+      "id": 123,
+      "type": "bus",
+      "first_seen": 5.467,
+      "last_seen": 6.667,
+      "frames_tracked": 19,
+      "average_motion_px_s": 14.35,
+      "abrupt_motion_changes": 0,
+      "risk_score": 2,
+      "risk_level": "Low"
+    },
+    {
+      "id": 217,
+      "type": "car",
+      "first_seen": 9.4,
+      "last_seen": 14.8,
+      "frames_tracked": 74,
+      "average_motion_px_s": 12.26,
+      "abrupt_motion_changes": 0,
+      "risk_score": 2,
+      "risk_level": "Low"
+    },
+    {
+      "id": 237,
+      "type": "car",
+      "first_seen": 9.867,
+      "last_seen": 14.933,
+      "frames_tracked": 67,
+      "average_motion_px_s": 12.09,
+      "abrupt_motion_changes": 0,
+      "risk_score": 2,
+      "risk_level": "Low"
+    },
+    {
+      "id": 256,
+      "type": "car",
+      "first_seen": 10.333,
+      "last_seen": 14.933,
+      "frames_tracked": 63,
+      "average_motion_px_s": 17.79,
+      "abrupt_motion_changes": 0,
+      "risk_score": 2,
+      "risk_level": "Low"
+    },
+    {
+      "id": 385,
+      "type": "car",
+      "first_seen": 14.2,
+      "last_seen": 14.933,
+      "frames_tracked": 10,
+      "average_motion_px_s": 15.47,
+      "abrupt_motion_changes": 0,
+      "risk_score": 2,
+      "risk_level": "Low"
+    },
+    {
+      "id": 93,
+      "type": "car",
+      "first_seen": 3.667,
+      "last_seen": 4.467,
+      "frames_tracked": 13,
+      "average_motion_px_s": 5.69,
+      "abrupt_motion_changes": 0,
+      "risk_score": 1,
+      "risk_level": "Low"
+    },
+    {
+      "id": 95,
+      "type": "car",
+      "first_seen": 3.8,
+      "last_seen": 4.533,
+      "frames_tracked": 11,
+      "average_motion_px_s": 7.91,
+      "abrupt_motion_changes": 0,
+      "risk_score": 1,
+      "risk_level": "Low"
+    },
+    {
+      "id": 136,
+      "type": "car",
+      "first_seen": 6.067,
+      "last_seen": 14.933,
+      "frames_tracked": 134,
+      "average_motion_px_s": 5.88,
+      "abrupt_motion_changes": 0,
+      "risk_score": 1,
+      "risk_level": "Low"
+    },
+    {
+      "id": 310,
+      "type": "car",
+      "first_seen": 11.867,
+      "last_seen": 14.933,
+      "frames_tracked": 46,
+      "average_motion_px_s": 7.15,
+      "abrupt_motion_changes": 0,
+      "risk_score": 1,
+      "risk_level": "Low"
+    },
+    {
+      "id": 352,
+      "type": "car",
+      "first_seen": 13.267,
+      "last_seen": 14.733,
+      "frames_tracked": 15,
+      "average_motion_px_s": 6.13,
+      "abrupt_motion_changes": 0,
+      "risk_score": 1,
+      "risk_level": "Low"
+    },
+    {
+      "id": 362,
+      "type": "car",
+      "first_seen": 13.467,
+      "last_seen": 14.933,
+      "frames_tracked": 15,
+      "average_motion_px_s": 10.72,
+      "abrupt_motion_changes": 0,
+      "risk_score": 1,
+      "risk_level": "Low"
+    }
+  ],
+  "events": [
+    {
+      "vehicle_id": 7,
+      "timestamp": 3.067,
+      "type": "Abrupt motion",
+      "severity": "Low",
+      "description": "Repeated abrupt changes in observed image motion"
+    },
+    {
+      "vehicle_id": 8,
+      "timestamp": 14.933,
+      "type": "Abrupt motion",
+      "severity": "Low",
+      "description": "Repeated abrupt changes in observed image motion"
+    },
+    {
+      "vehicle_id": 20,
+      "timestamp": 14.933,
+      "type": "Abrupt motion",
+      "severity": "Medium",
+      "description": "Repeated abrupt changes in observed image motion"
+    },
+    {
+      "vehicle_id": 240,
+      "timestamp": 11.267,
+      "type": "Abrupt motion",
+      "severity": "Medium",
+      "description": "Repeated abrupt changes in observed image motion"
+    },
+    {
+      "vehicle_id": 335,
+      "timestamp": 13.467,
+      "type": "Abrupt motion",
+      "severity": "Medium",
+      "description": "Repeated abrupt changes in observed image motion"
+    }
+  ],
+  "notes": [
+    "Motion values are in image pixels per second, not km/h.",
+    "Risk scores are heuristic relative indicators, not probabilities.",
+    "Abrupt motion does not confirm dangerous driving or accidents.",
+    "Proximity and collision detection are not implemented in this version."
+  ]
+}

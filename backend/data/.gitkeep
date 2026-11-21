@@ -1,0 +1,4 @@
+{
+  "_note": "Replace this placeholder with your real analysis.json output from the YOLO11n + ByteTrack Colab pipeline.",
+  "_format_hint": "Expected top-level keys: video_id, total_frames, fps, duration_seconds, vehicles[], events[]"
+}
